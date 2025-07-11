@@ -1,0 +1,1 @@
+# Kuripara High School server
